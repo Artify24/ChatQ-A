@@ -1,5 +1,5 @@
-streamlit
-langchain_nvidia_ai_endpoints
-langchain
-langchain_core
-python-dotenv
+streamlit==1.39.0
+langchain==0.3.7
+langchain-core==0.3.19
+langchain-nvidia-ai-endpoints==0.3.5
+python-dotenv==1.0.1
