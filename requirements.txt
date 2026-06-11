@@ -2,4 +2,4 @@ streamlit
 langchain_nvidia_ai_endpoints
 langchain
 langchain_core
-dotenv
+python-dotenv
